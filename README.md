@@ -1,6 +1,8 @@
 # 🌿 Laboratory Work 4 — Improving CNN Performance
 ### Using Regularization, Fine-Tuning, and Advanced Evaluation
 
+Google Colab : https://colab.research.google.com/drive/1fbIhmiC7_KaKpjtQEKhVNR610GnKt1D3?usp=drive_link
+
 > **Course:** Computer Science — Machine Learning / Deep Learning
 > **Dataset:** Tree & Fruit Image Dataset · 20 Classes · 7,194 Images
 > **Framework:** TensorFlow / Keras · Google Colab
